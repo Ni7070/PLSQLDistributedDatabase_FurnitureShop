@@ -1,2 +1,2 @@
 # PLSQLDistributedDatabase_FurnitureShop
-This is a distributed database management sytem of a furniture shop created using PL/SQL.
+This is a distributed database management system of a furniture shop created using PL/SQL.
